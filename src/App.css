@@ -1,0 +1,15 @@
+.container{
+ height: 100vh;
+  
+
+}
+div{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: stretch;
+}
+h1{
+  text-align: center;
+  color: rgb(11, 82, 105);
+}

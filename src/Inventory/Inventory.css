@@ -1,0 +1,10 @@
+.inventoryContainer{
+    display: flex;
+    flex-direction: row;
+    /* border: 2px solid blue; */
+    font-size: 8px;
+    color: chocolate;
+    justify-content: space-around;
+    background-color: lightblue;
+    height: 50px;;
+}
